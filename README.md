@@ -13,4 +13,4 @@ Most buyers fall in the *26–35 age group(female)*.
 Top states contributing to sales: *Uttar Pradesh, Maharashtra, Karnataka*. - 
 *Married women* show stronger purchasing power. 
 Buyers are largely employed in *IT, Healthcare, and Aviation sectors*. 
-Most sold product categories: *Food, Clothing, Electronics*<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c0936723-dec0-4f92-b774-7036e0089ca0" />
+Most sold product categories: *Food, Clothing, Electronics*<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c0936723-dec0-4f92-b774-7036e0089ca0" />
